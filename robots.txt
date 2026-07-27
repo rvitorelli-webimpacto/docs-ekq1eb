@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-mkczhc.juragan89.online/sitemap.xml
